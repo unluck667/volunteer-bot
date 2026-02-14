@@ -13,7 +13,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8599078171:AAEtrDzmnlyzbQvpcP_4DE6cpISTJCu9xDI"
+TOKEN = "8599078171:AAH3AtojGltRrArQuLmSkh3LKa2DmaSbNMw"
 ADMIN_ID = 123456789  # <-- сюда вставьте свой Telegram ID
 
 # Главное меню
